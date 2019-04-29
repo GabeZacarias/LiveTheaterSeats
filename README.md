@@ -8,4 +8,4 @@ A console window with each seat and price is displayed
 - Once all seats are sold, current screen will be cleared and a message of sold out will appear
 
 # RunProgram
-To run program download main.exe
+To run program instead of looking at the code, download theater.exe
